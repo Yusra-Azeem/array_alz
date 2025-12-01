@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=marks_Func
+comment1.params=m1\ m2\ m3\ age\ name
+comment1.target=marks_Func(double,\ double,\ double,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ detail()
+comment2.text=marks_Func(){\r\n\ \ \ \ \ \ \ \ m1\=0;\r\n\ \ \ \ \ \ \ \ m2\=0;\r\n\ \ \ \ \ \ \ \ m3\=0;\r\n\ \ \ \ \ \ \ \ age\=0;\r\n\ \ \ \ \ \ \ \ name\="";\r\n\ \ \ \ \ \ \ \ \r\n}
+comment3.params=
+comment3.target=void\ compute()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Aleena
+comment1.params=n\ m
+comment1.target=Aleena(int,\ int)
+comment2.params=
+comment2.target=Aleena()
+comment3.params=i
+comment3.target=Aleena(int)
+comment4.params=
+comment4.target=int\ area()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

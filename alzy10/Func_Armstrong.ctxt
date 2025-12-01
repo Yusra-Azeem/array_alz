@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Func_Armstrong
+comment1.params=num
+comment1.target=boolean\ armstrong(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

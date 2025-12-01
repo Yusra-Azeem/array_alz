@@ -1,0 +1,29 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.11.jar;C:\Program Files (x86)\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\BlueJ\lib\lang-stride.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\DELL\OneDrive\Documents\alzy10
+-d
+C:\Users\DELL\OneDrive\Documents\alzy10\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\DELL\OneDrive\Documents\alzy10\armstrongNum.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\DELL\OneDrive\Documents\alzy10\armstrongNum.java...
+C:\Users\DELL\OneDrive\Documents\alzy10\armstrongNum.java:8: error: reached end of file while parsing
+        int n=sc.nextInt();
+                           ^
+1 error

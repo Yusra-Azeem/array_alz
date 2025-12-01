@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Func_RECT_Area_Perimt2
+comment1.params=
+comment1.target=void\ input()
+comment2.params=l\ b
+comment2.target=int\ area(int,\ int)
+comment3.params=l\ b
+comment3.target=int\ perimeter(int,\ int)
+comment4.params=h
+comment4.target=void\ display(int)
+comment4.text=public\ static\ void\ perimeter2(int\ l,int\ b)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ int\ perimeter\ \=\ 2*(l+b);\r\n\ \ \ \ \ \ \ \ System.out.println(perimeter);\r\n}
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

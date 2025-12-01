@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Discount_Func
+comment1.params=
+comment1.target=Discount_Func()
+comment2.params=TicAmt
+comment2.target=int\ disc(int)
+comment3.params=TicAmt\ discount
+comment3.target=int\ calc(int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

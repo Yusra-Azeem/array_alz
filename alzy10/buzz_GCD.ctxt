@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=buzz_GCD
+comment1.params=n\ n1
+comment1.target=int\ GCD(int,\ int)
+comment2.params=n
+comment2.target=boolean\ buzz(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

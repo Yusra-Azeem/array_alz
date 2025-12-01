@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IncomeTax
+comment1.params=
+comment1.target=IncomeTax()
+comment2.params=TI
+comment2.target=double\ income(double)
+comment3.params=
+comment3.target=boolean\ detail()
+comment4.params=TI
+comment4.target=void\ display(double)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

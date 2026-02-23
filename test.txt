@@ -1,0 +1,3 @@
+Hello BlueJ
+File writing works!
+This is saved in project folder.

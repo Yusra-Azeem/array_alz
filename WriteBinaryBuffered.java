@@ -9,7 +9,7 @@ public class WriteBinaryBuffered {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
             // Binary file output with buffering
-            FileOutputStream fos = new FileOutputStream("data.bin");
+            FileOutputStream fos = new FileOutputStream("data.dat");
             BufferedOutputStream bos = new BufferedOutputStream(fos);
             DataOutputStream dos = new DataOutputStream(bos);
 
